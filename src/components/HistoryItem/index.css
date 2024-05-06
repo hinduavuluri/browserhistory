@@ -1,0 +1,39 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+}
+.item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.time {
+  font-family: roboto;
+  color: #475569;
+  font-size: 13px;
+  font-weight: 200;
+}
+.icon-container {
+  display: flex;
+  flex-direction: row;
+}
+.title {
+  font-family: roboto;
+  color: #475569;
+  font-size: 12px;
+  font-weight: 200;
+}
+.logo-url {
+  font-family: roboto;
+  color: #475569;
+  font-size: 12px;
+}
+.delete-icon {
+  height: 40px;
+  width: 30px;
+}
+.icon {
+  height: 35px;
+  width: 37px;
+  margin: 2px;
+}

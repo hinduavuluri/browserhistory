@@ -1,0 +1,29 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-size: cover;
+}
+.search-container {
+  padding: 15px;
+  background-color: #3367d6;
+  display: flex;
+  flex-direction: row;
+}
+.app-logo {
+  font-size: 40px;
+  margin-right: 100px;
+}
+.icon-container {
+  padding: 8px;
+  background-color: #2850a7;
+  border-color: #ececec;
+}
+.search {
+  font-size: 30px;
+}
+.input {
+  color: #64748b;
+  font-family: roboto;
+  font-size: 25px;
+}
